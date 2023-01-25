@@ -25,3 +25,16 @@ image recognition.
 * Low Resolution face recognition - [Github Link](https://github.com/ksasi/face-recognition)
 * Bias and Fairness in GANs - [Github Link](https://github.com/ksasi/fairDL)
 * FairDistillation in GANs - [Github Link](https://github.com/ksasi/fair-distill)
+
+## How to cite this repository
+
+If you used this repository in your work, please cite as below:
+
+```
+@article{kotti2023thesis,
+  author = {Sasikanth, Kotti},
+  title = {Bias and Fairness in Low Resolution Image Recognition},
+  year = {2023},
+  url = {https://ksasi.github.io/pdfs/MT19AIE308-Report.pdf}
+}
+```
